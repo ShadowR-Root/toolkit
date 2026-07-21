@@ -26,7 +26,7 @@ This toolkit is actively maintained and updated regularly (usually more than onc
 If you find any bugs, have suggestions, or encounter any issues, please open an issue or let me know.
 ```markdown
 ### Screenshot
-![toolkit](git-hub-screenshorts/untitled design.png)
+![toolkit](git-hub-screenshorts/toolkit.png)
 ```
 ---
 
