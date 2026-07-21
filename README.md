@@ -16,7 +16,7 @@ A simple reconnaissance toolkit made by **ShadowR**.
 ## Usage
 
 ```bash
-python scan.py
+python scan.py or python3 scan.py
 ```
 
 ## Note
