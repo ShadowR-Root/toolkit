@@ -1,6 +1,29 @@
-this is a recon toolkit made by ShadowR 
-tools:
-Nmap
-Gobuster 
-note:I update my tookit one or more than one time a month 
-if there is any issue please let me know
+# Recon Toolkit
+
+A simple reconnaissance toolkit made by **ShadowR**.
+
+## Features
+
+- Nmap integration
+- Gobuster integration
+
+## Requirements
+
+- Python 3
+- Nmap
+- Gobuster
+
+## Usage
+
+```bash
+python scan.py
+```
+
+## Note
+
+This toolkit is actively maintained and updated regularly (usually more than once a month).
+
+If you find any bugs, have suggestions, or encounter any issues, please open an issue or let me know.
+
+---
+
